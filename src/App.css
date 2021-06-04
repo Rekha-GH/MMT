@@ -1,0 +1,20 @@
+@import url('Styles/variable.css');
+@import url('Styles/images.css');
+@import url('Styles/Header.css');
+@import url('Styles/TransparentButton.css');
+@import url('Styles/Grid.css');
+@import url('Styles/List.css');
+@import url('Styles/PosterBox.css');
+@import url('Styles/LightBox.css');
+
+body {
+    font-size: 18px;
+    background-color: var(--back-color);
+    color: var(--fore-color);
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+* {
+    box-sizing: border-box;
+}
